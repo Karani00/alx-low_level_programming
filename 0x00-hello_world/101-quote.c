@@ -2,7 +2,7 @@
 #include <std.h>
 /**
  * main - A program that prints line line to standard error
- * Return 1 (success)
+ * Return: 1 (success)
  */
 int main(void)
 {
